@@ -1,0 +1,120 @@
+.icons {
+    margin: 3rem 0;
+}
+
+i.cc {
+    font-size: 4rem;
+    display: inline-block;
+    margin: 0 1.3rem 1.3rem 0;
+    transition: 0.1s ease all;
+    color: #333;
+}
+
+i.cc:hover {
+    color: #f0373c;
+    transform: scale(1.25);
+    transform-origin: 0.49em 0.7em;
+}
+
+
+.footer-big-menu {
+    background-color: #17191B;
+}
+
+.footer-big-menu .menu .menu-link {
+    color: #aaa;
+}
+
+.footer-big-menu .bottom {
+    color: #aaa;
+}
+
+.btn-shadow.btn-shadow-info {
+    color: #fff;
+    border: 2px solid #f0373c;
+    background-color: #f0373c;
+}
+
+.btn-shadow.btn-shadow-info:hover {
+    border: 2px solid white;
+    background-color: #f0373c;
+}
+
+.footer-big-menu .cta .btn-outline {
+    color: #fff;
+    border: 2px solid #f0373c;
+    background-color: #f0373c;
+}
+
+.footer-big-menu .cta .btn-outline:hover {
+    border: 2px solid white;
+    color: #fff;
+}
+
+.business-single-client .quote-wrapper {
+    background-color: #212529;
+}
+
+html {
+    background-color: #17191B;
+}
+
+.business-single-client {
+    background-image: url(../assets/images/connections-flip.jpg);
+}
+
+.index-devices h4 {
+    color: #f0373c;
+}
+
+.spacial-features .feature h3 {
+    color: #f0373c;
+}
+
+@media (min-height: 700px) {
+    .business-hero {
+        height: 800px;
+        min-height: 800px;
+    }
+}
+
+a, a:hover {
+    color: #f0373c;
+}
+
+.navbar-dark {
+    background-color: #17191B !important;
+}
+
+.navbar-dark .nav-item .nav-link {
+    font-size: 14px;
+}
+
+#faq-accordion a, #faq-accordion a:hover {
+    color: black;
+}
+#faq-accordion .card {
+    margin-bottom: 10px;
+}
+
+.first-section {
+    padding-top: 100px;
+}
+
+.spacial-features .header p {
+    color: #656568;
+}
+
+.spacial-features .feature p {
+    color: #656568;
+}
+
+/*.content {*/
+    /*padding-top: 85px;*/
+/*}*/
+
+@media (min-width: 1240px) {
+    .modal-xlg {
+        max-width: 1200px;
+    }
+}

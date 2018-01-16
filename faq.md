@@ -30,13 +30,13 @@ permalink: /faq
                     <div class="card-header" id="headingOne">
                       <h5 class="mb-0">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                          How does ACES differ from Atomic Swaps?
+                          If ARK has a connection with Monero, Zcash or something similar via ACES, does it mean that it will be possible to make anonymous Ark to Ark transactions (invisible part would be: Ark -> Anonymous currency -> Ark)?
                         </a>
                       </h5>
                     </div>
                     <div id="collapseOne" class="collapse" role="tabpanel">
                       <div class="card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                        One of the flaws of certain private coins is that amounts of transfers are known. Studies have shown that knowing the amounts makes it possible to determine who sent what, regardless of if the new address is newly created. A privacy service would have to have more layers than simply ark -> privacy coin -> Ark or it would still be obvious where your coins came from.
                       </div>
                     </div>
                   </div>
@@ -45,18 +45,13 @@ permalink: /faq
                     <div class="card-header" id="headingTwo">
                       <h5 class="mb-0">
                         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                          What advantages does ACES service execution model have over trustless protocols?
+                         Is ACES only building the backend infrastructure for these communications, but not actually making all the interconnections and nodes? 
                         </a>
                       </h5>
                     </div>
                     <div id="collapseTwo" class="collapse">
                       <div class="card-body">
-                        ACES Service nodes are run independently by service providers and therefore are not
-                        regulated my any central authority including centrallized codebases.
-                        
-                        However, since trust is not estabilshed by a consensus protocol, consumers should take
-                        care to utilized only services that have established trust and be aware of the risks
-                        of using any decentrallized services offered by the platform, such as bad actors.
+                        We will build both backend and frontend infrastructure. The goal for ACES has always been for these services to be hosted by the community, much like running a node. We don't want a single point of failure and we hope to create an ecosystem of micro services that are provided by a collective of thousands of people across the globe. 
                       </div>
                     </div>
                   </div>
@@ -65,20 +60,31 @@ permalink: /faq
                     <div class="card-header" id="headingThree">
                       <h5 class="mb-0">
                         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                          Collapsible Group Item #3
+                          Any chance ACES services are integrated into the ARK official wallet?
                         </a>
                       </h5>
                     </div>
                     <div id="collapseThree" class="collapse">
                       <div class="card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                      </div>
+                        It is possible. The wallet is compatible with web technologies which is how we’re building the marketplace. We don’t have any current plans to integrate it into the wallet but I imagine if ACES is successful enough we will explore that option some time after the release of the marketplace.</div>
                     </div>
                   </div>
+                  
+                  <div class="card">
+                    <div class="card-header" id="headingFour">
+                      <h5 class="mb-0">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                          Do you have to pay any fees when swapping between blockchains? Example: BTC->Ark?
+                        </a>
+                      </h5>
+                    </div>
+                   <div id="collapseFour" class="collapse">
+                   <div class="card-body">
+                     Yes. Because transactions are real, verifiable transactions on each blockchain, a transaction fee is paid on each chain.
+                 </div>
                                   
                 </div>
             
             </div>
         </div>
-    </section>
 </div>

@@ -21,7 +21,7 @@ permalink: /services
         
         <div class="row">
             <div class="col-md-12" style="margin-top: 40px; margin-bottom: 40px">
-                <img class="img-fluid" src="assets/images/aces-services-2.svg">
+                <img class="img-fluid" src="/assets/images/aces-services-2.svg">
             </div>
         </div>
         
@@ -75,7 +75,7 @@ permalink: /services
         <section class="features">
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
+                    <img src="/assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Microservices
@@ -87,7 +87,7 @@ permalink: /services
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
+                    <img src="/assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Decentrallized
@@ -101,7 +101,7 @@ permalink: /services
             </div>
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
+                    <img src="/assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Incentivized
@@ -113,7 +113,7 @@ permalink: /services
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
+                    <img src="/assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Service Composition Chains

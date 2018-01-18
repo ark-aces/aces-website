@@ -164,9 +164,6 @@ $('#video-modal').on('hide.bs.modal', function (e) {
     <div class="container">
         <header>
             <h3>Platform Key Features</h3>
-            <p>
-                Spacial is an advanced theme solution for desktop, tablet, and mobile devices. It works in all browsers and your clients can pay instantly, to improve their experience at all times anywhere they go.
-            </p>
         </header>
         <section class="features">
             <div class="row">

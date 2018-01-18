@@ -20,6 +20,7 @@ permalink: /marketplace
     </section>
 </div>
 
+<<<<<<< HEAD
 <div class="index-devices customFadeInUp" data-scroll="">
     <section>
         <div class="row">
@@ -29,6 +30,10 @@ permalink: /marketplace
             </div>
         </div>
     </section>
+=======
+<div class="customFadeInUp" data-scroll="" style="margin: 80px auto 0; max-width: 1400px;">
+        <img src="assets/images/aces-marketplace-contract-form.png" class="img-fluid" style="border: 1px solid #ddd">
+>>>>>>> 2540bb1bd79b360080fb7f736e0e7f9068944540
 </div>
 
 

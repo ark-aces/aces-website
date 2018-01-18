@@ -23,6 +23,7 @@ permalink: /roadmap
             <div class="col-12">
                 <div class="header">
                     <h2>Milestones In Progress</h2>
+                    <hr>
                     
                     <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
                       Publish Marketplace API Specification 
@@ -31,6 +32,7 @@ permalink: /roadmap
                     <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
                       Publish BTC/ARK Transfer Service implementation 
                     </a><p>
+
                     
                     
                     
@@ -43,6 +45,7 @@ permalink: /roadmap
             <div class="col-12">
                 <div class="header">
                     <h2>Upcoming Milestones</h2>
+                    <hr>
                     
                     <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
                       Deploy Marketplace API documentation website
@@ -156,6 +159,7 @@ permalink: /roadmap
             <div class="col-12">
                 <div class="header">
                     <h2>Completed Milestones</h2>
+                    <hr>
                     
                     <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
                       Deploy blog website

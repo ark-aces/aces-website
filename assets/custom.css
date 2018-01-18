@@ -74,7 +74,7 @@ html {
 }
 
 .business-single-client {
-    background-image: url(../assets/images/connections-flip.jpg);
+    background-image: url(../assets/images/bridge.jpg);
 }
 
 .index-devices h4 {
@@ -142,4 +142,15 @@ a, a:hover {
     vertical-align: middle;
 
 
+}
+
+body { padding-top: 85px; }
+
+.index-clients {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.business-single-client {
+    margin-bottom: 200px;
 }

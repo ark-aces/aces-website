@@ -132,41 +132,6 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 <div class="index-clients">
     <div class="container">
         <header>
-            <h4>Connecting the best blockchain technologies</h4>
-        </header>
-        <div class="row justify-content-center icons">
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc ARK" title="ARK"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc BTC" title="BTC"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc LTC" title="LTC"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc XMR" title="XMR"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc ETH" title="ETH"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc IOTA" title="IOTA"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc NEO" title="NEO"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc SIA" title="SIA"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc GNT" title="GNT"></i>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <header>
             <h4>Platform Statistics</h4>
         </header>
         <div class="about-2-stats">
@@ -315,7 +280,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 
 
 
-<div class="agency-from-the-blog">
+<div class="agency-from-the-blog" style="display:none">
     <div class="container">
         <h3>Latest Posts</h3>
         <div class="row">
@@ -369,6 +334,44 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         on its own, and does not necessarily need to be run by the same person running a service.
                     </p>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="index-clients">
+    <div class="container">
+        <header>
+            <h4>Connecting the best blockchain technologies</h4>
+        </header>
+        <div class="row justify-content-center icons">
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc ARK" title="ARK"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc BTC" title="BTC"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc LTC" title="LTC"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc XMR" title="XMR"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc ETH" title="ETH"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc IOTA" title="IOTA"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc NEO" title="NEO"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc SIA" title="SIA"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc GNT" title="GNT"></i>
             </div>
         </div>
     </div>

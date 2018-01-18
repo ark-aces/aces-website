@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq
 ---
 
-<div class="spacial-features customFadeInUp" data-scroll="" style="padding-top: 50px">
+<div class="spacial-features customFadeInUp" data-scroll="">
     <section class="container">
         <div class="row">
             <div class="col-12">
@@ -30,7 +30,7 @@ permalink: /faq
                     <div class="card-header" id="headingOne">
                       <h5 class="mb-0">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                          If ARK has a connection with Monero, Zcash or something similar via ACES, does it mean that it will be possible to make anonymous Ark to Ark transactions (invisible part would be: Ark -> Anonymous currency -> Ark)?
+                          Will it be possible to make anonymous Ark to Ark transactions?
                         </a>
                       </h5>
                     </div>

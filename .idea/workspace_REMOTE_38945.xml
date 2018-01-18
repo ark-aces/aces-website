@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a345ec-dc10-412c-b0fa-418e175725be" name="Default" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/roadmap.md" afterPath="$PROJECT_DIR$/roadmap.md" />
-=======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/custom.css" afterPath="$PROJECT_DIR$/assets/custom.css" />
->>>>>>> b631c64bd0938eaa4cb78dd80c0c71fab6a9396b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,13 +16,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="540">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-=======
             <state relative-caret-position="895">
               <caret line="154" column="21" lean-forward="false" selection-start-line="154" selection-start-column="21" selection-end-line="154" selection-end-column="21" />
->>>>>>> b631c64bd0938eaa4cb78dd80c0c71fab6a9396b
               <folding />
             </state>
           </provider>
@@ -36,26 +27,8 @@
         <entry file="file://$PROJECT_DIR$/faq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-<<<<<<< HEAD
-              <first_editor relative-caret-position="458">
-                <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="roadmap.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/roadmap.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="454">
-                <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-=======
               <first_editor relative-caret-position="90">
                 <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
->>>>>>> b631c64bd0938eaa4cb78dd80c0c71fab6a9396b
                 <folding />
               </first_editor>
               <second_editor />
@@ -180,12 +153,6 @@
       <list>
         <option value="$PROJECT_DIR$/scss/custom/components/_buttons.scss" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/assets/custom.css" />
-        <option value="$PROJECT_DIR$/faq.md" />
-        <option value="$PROJECT_DIR$/roadmap.md" />
-=======
         <option value="$PROJECT_DIR$/roadmap.md" />
         <option value="$PROJECT_DIR$/faq.md" />
         <option value="$PROJECT_DIR$/index.md" />
@@ -193,7 +160,6 @@
         <option value="$PROJECT_DIR$/listener-platform.md" />
         <option value="$PROJECT_DIR$/service-platform.md" />
         <option value="$PROJECT_DIR$/assets/custom.css" />
->>>>>>> b631c64bd0938eaa4cb78dd80c0c71fab6a9396b
       </list>
     </option>
   </component>
@@ -393,12 +359,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515970833629</updated>
-      <workItem from="1515970834920" duration="12069000" />
+      <workItem from="1515970834920" duration="10381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12069000" />
+    <option name="totallyTimeSpent" value="10381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1920" height="1109" extended-state="6" />
@@ -574,40 +540,17 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/assets/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="458">
-            <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-=======
     <entry file="file://$PROJECT_DIR$/faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
->>>>>>> b631c64bd0938eaa4cb78dd80c0c71fab6a9396b
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/roadmap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="454">
-            <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-=======
     <entry file="file://$PROJECT_DIR$/assets/images/marketplace-console.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -634,7 +577,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="212">
             <caret line="64" column="72" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="64" selection-end-column="72" />
->>>>>>> b631c64bd0938eaa4cb78dd80c0c71fab6a9396b
             <folding />
           </first_editor>
           <second_editor />

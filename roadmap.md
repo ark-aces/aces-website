@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ACES Roadmap
-permalink: /roadmap
+permalink: /roadmap/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">

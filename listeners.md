@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ACES Listener Platform
-permalink: /listeners
+permalink: /listeners/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">
@@ -21,7 +21,7 @@ permalink: /listeners
         
         <div class="row">
             <div class="col-md-12" style="margin-top: 40px; margin-bottom: 40px">
-                <img class="img-fluid" src="/assets/images/aces-listeners-styled.png">
+                <img class="img-fluid" src="../assets/images/aces-listeners-styled.png">
             </div>
         </div>
         
@@ -74,7 +74,7 @@ permalink: /listeners
         <section class="features">
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="/assets/images/ark-block-logo.png" class="icon" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Reactive Applications
@@ -86,7 +86,7 @@ permalink: /listeners
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="/assets/images/ark-block-logo.png" class="icon" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Full Node Isolation
@@ -101,7 +101,7 @@ permalink: /listeners
             </div>
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="/assets/images/ark-block-logo.png" class="icon" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Scalable
@@ -113,7 +113,7 @@ permalink: /listeners
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="/assets/images/ark-block-logo.png" class="icon" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
                     <section>
 
                         <h4>

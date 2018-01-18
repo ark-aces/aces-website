@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ACES Contributors
-permalink: /contributors
+permalink: /contributors/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">

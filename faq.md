@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently Asked Questions
-permalink: /faq
+permalink: /faq/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">

@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq
 ---
 
-<div class="spacial-features customFadeInUp" data-scroll="" style="padding-top: 50px">
+<div class="spacial-features customFadeInUp" data-scroll="">
     <section class="container">
         <div class="row">
             <div class="col-12">

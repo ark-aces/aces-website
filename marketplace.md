@@ -20,14 +20,8 @@ permalink: /marketplace
     </section>
 </div>
 
-<div class="index-devices customFadeInUp" data-scroll="">
-    <section>
-        <div class="row">
-            <div class="col-md-12">
-                    <img src="assets/images/marketplace-console.png" class="img-fluid">
-            </div>
-        </div>
-    </section>
+<div class="customFadeInUp" data-scroll="" style="margin: 80px auto 0; max-width: 1400px;">
+        <img src="assets/images/aces-marketplace-contract-form.png" class="img-fluid" style="border: 1px solid #ddd">
 </div>
 
 

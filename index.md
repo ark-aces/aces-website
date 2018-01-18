@@ -250,7 +250,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 
 <div class="index-devices" data-scroll>
     <section class="clearfix">
-        <img src="images/devices/devices-4.png" class="devices" />
+        <img src="assets/images/aces-marketplace-contract-form.png" class="img-fluid devices"  style="border:1px solid #ddd"/>
 
         <h4>ACES Marketplace Console</h4>
         <p>

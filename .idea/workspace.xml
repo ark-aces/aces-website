@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a345ec-dc10-412c-b0fa-418e175725be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/aces-listeners-styled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/marketplace-console.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/aces-services-2.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/custom.css" afterPath="$PROJECT_DIR$/assets/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.md" afterPath="$PROJECT_DIR$/faq.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/listener-platform.md" afterPath="$PROJECT_DIR$/listener-platform.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/marketplace.md" afterPath="$PROJECT_DIR$/marketplace.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-platform.md" afterPath="$PROJECT_DIR$/service-platform.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="149" column="19" lean-forward="false" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
+            <state relative-caret-position="895">
+              <caret line="154" column="21" lean-forward="false" selection-start-line="154" selection-start-column="21" selection-end-line="154" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -101,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service-platform.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="service-platform.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-platform.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -166,9 +157,9 @@
         <option value="$PROJECT_DIR$/faq.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/marketplace.md" />
-        <option value="$PROJECT_DIR$/assets/custom.css" />
         <option value="$PROJECT_DIR$/listener-platform.md" />
         <option value="$PROJECT_DIR$/service-platform.md" />
+        <option value="$PROJECT_DIR$/assets/custom.css" />
       </list>
     </option>
   </component>
@@ -581,14 +572,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="149" column="19" lean-forward="false" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -619,6 +602,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="154" column="21" lean-forward="false" selection-start-line="154" selection-start-column="21" selection-end-line="154" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

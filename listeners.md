@@ -1,9 +1,8 @@
 ---
 layout: default
-title: ACES Service Platform
-permalink: /service-platform
+title: ACES Listener Platform
+permalink: /listeners
 ---
-
 
 <div class="spacial-features customFadeInUp" data-scroll="">
     <section class="container">
@@ -11,9 +10,10 @@ permalink: /service-platform
             <div class="col-2"></div>
             <div class="col-8">
                 <div class="header">
-                    <h2>ACES Service Plaform</h2>
+                    <h2>ACES Listener Plaform</h2>
                     <p>
-                        ACES Services create and excute Service Contracts, which can be anything from uploading a file to a storage blockchain, performing value transfers, creating smart contracts, executing code on blockchain based computing platforms, or interacting with IoT hardware.
+                        The ACES Listener API provides a way for all the different blockchain transaction events 
+                        to be easily consumed via a common REST-ful API.
                     </p>
                 </div>
             </div>
@@ -21,7 +21,7 @@ permalink: /service-platform
         
         <div class="row">
             <div class="col-md-12" style="margin-top: 40px; margin-bottom: 40px">
-                <img class="img-fluid" src="assets/images/aces-services-2.svg">
+                <img class="img-fluid" src="assets/images/aces-listeners-styled.png">
             </div>
         </div>
         
@@ -38,7 +38,7 @@ permalink: /service-platform
                         subscriptions and receive blockchain events in real-time using Webhook callbacks.
                     </p>
                     <p>
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://ark-aces.github.io/aces-listener-docs/">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-listener-api">
                             Read Specification
                         </a>
                     </p>
@@ -50,9 +50,8 @@ permalink: /service-platform
                         API Docs
                     </h3>
                     <p>
-                        The ACES Listener API provides a way for all the different blockchain transaction events 
-                        to be easily consumed via a common REST-ful API. The API allows consumers to create 
-                        subscriptions and receive blockchain events in real-time using Webhook callbacks.
+                        The ACES Listener API documentation guides developers though implementing the
+                        necessary endponts and interactions defined by the API.
                     </p>
                     <p>
                         <a class="btn-sm btn-shadow btn-shadow-info" href="https://ark-aces.github.io/aces-listener-docs/">
@@ -69,54 +68,60 @@ permalink: /service-platform
 <div class="index-features" data-scroll>
     <div class="container">
         <header>
-            <h3>Platform Key Features</h3>
+            <h3>ACES Listener Features</h3>
+
         </header>
         <section class="features">
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-ok.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Open Source
+                            Reactive Applications
                         </h4>
                         <p>
-                            Everything on the ACES platform is open source and uses a permissive free software license.
+                            Subscription webhook allows consumesr to create reactive applications using
+                            simple webhook callbacks.
                         </p>
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-canvas.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            REST-ful APIs
+                            Full Node Isolation
                         </h4>
                         <p>
-                            The ACES platform uses simple REST-ful APIs for easy integration.
+                            Listeners allow consumers to respond to blockchain events
+                            without running an expensive blockchain full node that might require
+                            expensive disk space and bandwidth.
                         </p>
                     </section>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-world.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Decentrallized
+                            Scalable
                         </h4>
                         <p>
-                            A marketplace platform that allows users to consume blockchain services offered by a 
-                            decentralized collection of service providers. 
+                            Listener providers can scale their services using standard web service
+                            techniques such as HTTP load balancers. 
                         </p>
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-compass.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
+
                         <h4>
-                            Service Composition Chains
+                            Incentivized
                         </h4>
                         <p>
-                            Use functional composition to chain ACES Services together.
+                            ACES Listener providers can sell access by managing their own authorization
+                            schemes such as HTTP Basic Auth.
                         </p>
                     </section>
                 </div>
@@ -129,27 +134,19 @@ permalink: /service-platform
 <div class="index-clients" style="margin-bottom: 70px">
     <div class="container">
         <header>
-            <h4>ACES Service Implementations</h4>
+            <h4>ACES Listener Implementations</h4>
         </header>
         <div class="about-2-stats">
             <div class="container">
                 <div class="row" style="margin-bottom: 20px;">
                     <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="">Ark Listener</a>
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-listener-ark">Ark Listener</a>
                     </div>
                     <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="">Bitcoin Listener</a>
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-listener-bitcoin">Bitcoin Listener</a>
                     </div>
                     <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="">Ethereum Listener</a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="">Litecoin Listener</a>
-                    </div>
-                    <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="">Zencash Listener</a>
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-listener-ethereum">Ethereum Listener</a>
                     </div>
                 </div>
             </div>

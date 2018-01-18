@@ -58,15 +58,15 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             <div class="col-md-3">
                 <div class="feature">
                     <h3>
-                        ACES Listener API
+                        ACES Listeners
                     </h3>
                     <p>
-                        The ACES Listener API provides a way for all the different blockchain transaction events 
+                        ACES Listeners provide a way for all the different blockchain transaction events 
                         to be easily consumed via a common REST-ful API. The API allows consumers to create 
                         subscriptions and receive blockchain events in real-time using Webhook callbacks.
                     </p>
                     <p>
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://ark-aces.github.io/aces-listener-docs/">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="listeners">
                             Learn More
                         </a>
                     </p>
@@ -75,7 +75,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             <div class="col-md-3">
                 <div class="feature">
                     <h3>
-                        ACES Service API
+                        ACES Services
                     </h3>
                     <p>
                         ACES Services create and excute Service Contracts, which can be anything from uploading a 
@@ -84,7 +84,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         computing platforms, or interacting with IoT hardware.
                     </p>
                     <p>
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://ark-aces.github.io/aces-service-docs/">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="services">
                             Learn More
                         </a>
                     </p>
@@ -101,7 +101,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         public Marketplace and have them discovered an utilized by consumers.
                     </p>
                     <p>
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://ark-aces.github.io/aces-marketplace-docs/">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-marketplace-api">
                             Learn More
                         </a>
                     </p>
@@ -143,7 +143,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         <p>Listeners</p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <span>1</span>
+                        <span>3</span>
                         <p>Services</p>
                     </div>
                     <div class="col-md-3 text-center">
@@ -163,23 +163,23 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 <div class="index-features" data-scroll>
     <div class="container">
         <header>
-            <h3>Platform Key Features</h3>
+            <h3>Platform Features</h3>
         </header>
         <section class="features">
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-ok.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Open Source
                         </h4>
                         <p>
-                            Everything on the ACES platform is open source and uses a permissive free software license.
+                            Everything on the ACES platform is open source and uses a permissive free software license (MIT).
                         </p>
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-canvas.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             REST-ful APIs
@@ -192,7 +192,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             </div>
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-world.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Decentrallized
@@ -204,10 +204,10 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-compass.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Service Composition Chains
+                            Service Composition
                         </h4>
                         <p>
                             Use functional composition to chain ACES Services together.
@@ -217,7 +217,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             </div>
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-upload.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Incentivized
@@ -229,13 +229,14 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-compass.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Service Composition Chains
+                            Programming Languages
                         </h4>
                         <p>
-                            Use functional composition to chain ACES Services together.
+                            ACES is built using light-weight microservices that are easy for providers
+                            to implement in different programming languages and frameworks.
                         </p>
                     </section>
                 </div>

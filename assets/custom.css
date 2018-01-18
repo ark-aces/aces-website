@@ -46,6 +46,7 @@ i.cc:hover {
     color: #333;
     border: 1px solid #f5f5f5;
     background-color: #f5f5f5;
+    text-transform: none;
 }
 .btn-roadmap:hover {
     background-color: #f0373c;
@@ -74,7 +75,7 @@ html {
 }
 
 .business-single-client {
-    background-image: url(../assets/images/bridge.jpg);
+    background-image: url(../assets/images/space.jpg);
 }
 
 .index-devices h4 {
@@ -158,4 +159,18 @@ body { padding-top: 85px; }
 .business-single-client .quote-wrapper {
     bottom: -40px;
     height: auto;
+}
+
+
+@media (min-width: 992px) {
+    .index-features .features .icon {
+        margin-right: 0;
+        width: 60px;
+        position: relative;
+        top: -24px;
+    }
+}
+
+#faq-accordion a, #faq-accordion a:hover {
+    line-height: 1.5em;
 }

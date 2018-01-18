@@ -20,101 +20,66 @@ permalink: /marketplace
     </section>
 </div>
 
-<<<<<<< HEAD
-<div class="index-devices customFadeInUp" data-scroll="">
-    <section>
-        <div class="row">
-            <div class="col-md-12" style="text-align:center">
-                    <img src="assets/images/marketplace-console.png" class="img-fluid">
-                    (placeholder design until marketplace prototype developed)
-            </div>
-        </div>
-    </section>
-=======
 <div class="customFadeInUp" data-scroll="" style="margin: 80px auto 0; max-width: 1400px;">
         <img src="assets/images/aces-marketplace-contract-form.png" class="img-fluid" style="border: 1px solid #ddd">
->>>>>>> 2540bb1bd79b360080fb7f736e0e7f9068944540
 </div>
-
 
 
 <div class="index-features" data-scroll>
     <div class="container">
         <header>
-            <h3>Platform Key Features</h3>
+            <h3>ACES Marketplace Features</h3>
 
         </header>
         <section class="features">
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-ok.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Open Source
+                            Service Directory
                         </h4>
                         <p>
-                            Everything on the ACES platform is open source and uses a permissive free software license.
+                            The ACES Marketplace allows service providers to register services and have them
+                            discoverable by end consumers.
                         </p>
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-canvas.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            REST-ful APIs
+                            Integrated Payments
                         </h4>
                         <p>
-                            The ACES platform uses simple REST-ful APIs for easy integration.
+                            The ACES Marketplace integrates an Ark payment wallet for easy service contract
+                            payments.
                         </p>
                     </section>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-world.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
                             Decentrallized
                         </h4>
                         <p>
-                            A marketplace platform that allows users to consume blockchain services offered by a 
-                            decentralized collection of service providers. 
+                            The ACES Marketplace is Open Source and allows different instances to be created
+                            and managed by different organizations and use cases.
                         </p>
                     </section>
                 </div>
                 <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-compass.png" class="icon" />
+                    <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Service Composition Chains
+                            Established Trust
                         </h4>
                         <p>
-                            Use functional composition to chain ACES Services together.
-                        </p>
-                    </section>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-upload.png" class="icon" />
-                    <section>
-                        <h4>
-                            Incentivized
-                        </h4>
-                        <p>
-                            The ACES platform provides an open fee model that allows service providers
-                            to compete in a fee market.
-                        </p>
-                    </section>
-                </div>
-                <div class="col-md-6 feature">
-                    <img src="images/icons/features-icon-compass.png" class="icon" />
-                    <section>
-                        <h4>
-                            Listener Hosting
-                        </h4>
-                        <p>
-                            Provide blockchain data to subscribers with easy to implement fee-based authentication
+                            The ACES Marketplace tracks and reviews services to establish trust
+                            for the consumer. 
                         </p>
                     </section>
                 </div>
@@ -124,6 +89,7 @@ permalink: /marketplace
 </div>
 
 
+<!--
 <div class="index-clients">
     <div class="container">
         <header>
@@ -154,3 +120,4 @@ permalink: /marketplace
         </div>
     </div>
 </div>
+-->

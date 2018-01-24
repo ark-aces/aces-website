@@ -190,3 +190,11 @@ body { padding-top: 85px; }
 #faq-accordion a, #faq-accordion a:hover {
     line-height: 1.5em;
 }
+
+.spacial-features .feature p {
+    width: 100%;
+    text-align: left;
+}
+.spacial-features .feature h3 {
+    text-align: left;
+}

@@ -42,8 +42,8 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 
 <div class="spacial-features" data-scroll style="    margin: 80px auto 0;
                                                      max-width: 1400px;">
-    <section class="container-fluid">
-        <div class="row no-gutters">
+    <section class="container">
+        <div class="row">
             <div class="col-12">
                 <div class="header">
                     <h2>Blockchain Interoperability Platform</h2>
@@ -55,7 +55,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <div class="feature">
                     <h3>
                         ACES Listeners
@@ -72,7 +72,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <div class="feature">
                     <h3>
                         ACES Services
@@ -90,31 +90,15 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     </p>
                 </div>
             </div>
-
-            <div class="col-md-3">
-                <div class="feature">
-                    <h3>
-                        ACES Marketplace API
-                    </h3>
-                    <p>
-                        The ACES Marketplace API allows service providers to list their service nodes on the
-                        public Marketplace and have them discovered an utilized by consumers.
-                    </p>
-                    <p>
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-marketplace-api">
-                            Learn More
-                        </a>
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <div class="feature">
                     <h3>
                         ACES Marketplace Console
                     </h3>
                     <p>
                         The ACES Marketplace Console is a consumer dashboard for searching and executing
-                        service contracts listed on the Marketplace and tracking contract executions.
+                        service contracts listed on the Marketplace.
+                        ACES Service providers can list their service nodes using the Marketplace API.
                     </p>
                     <p>
                         <a class="btn-sm btn-shadow btn-shadow-info" href="/marketplace">

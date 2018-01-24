@@ -74,6 +74,22 @@ html {
     background-color: #17191B;
 }
 
+.business-hero {
+    background: url(../assets/images/city.jpg);
+    background-size: cover;
+    background-position: center 0;
+}
+
+.business-hero:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(10,10,10,0.7);
+}
+
 .business-single-client {
     background-image: url(../assets/images/space.jpg);
 }

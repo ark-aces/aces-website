@@ -80,7 +80,7 @@ permalink: /listeners/
                             Reactive Applications
                         </h4>
                         <p>
-                            Subscription webhook allows consumesr to create reactive applications using
+                            Subscription webhook allows developers to create reactive applications using
                             simple webhook callbacks.
                         </p>
                     </section>
@@ -92,7 +92,7 @@ permalink: /listeners/
                             Full Node Isolation
                         </h4>
                         <p>
-                            Listeners allow consumers to respond to blockchain events
+                            Listeners allow services to respond to blockchain events
                             without running an expensive blockchain full node that might require
                             expensive disk space and bandwidth.
                         </p>
@@ -107,8 +107,8 @@ permalink: /listeners/
                             Scalable
                         </h4>
                         <p>
-                            Listener providers can scale their services using standard web service
-                            techniques such as HTTP load balancers. 
+                            Listener providers can scale their services using standard web 
+                            techniques such as load balancing. 
                         </p>
                     </section>
                 </div>

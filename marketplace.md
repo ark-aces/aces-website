@@ -11,7 +11,7 @@ permalink: /marketplace/
                 <div class="header">
                     <h2>ACES Marketplace</h2>
                     <p>
-                        Dashboard for searching and executing service contracts
+                        A Web Application for searching and executing ACES Service contracts
                         and tracking contract executions.
                     </p>
                 </div>

@@ -208,7 +208,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         </h4>
                         <p>
                             The ACES platform provides an open fee model that allows service providers
-                            to compete in a fee market.
+                            to compete in a free market.
                         </p>
                     </section>
                 </div>
@@ -219,7 +219,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                             Programming Languages
                         </h4>
                         <p>
-                            ACES is built using light-weight microservices that are easy for providers
+                            Built using light-weight microservices that are easy for providers
                             to implement in different programming languages and frameworks.
                         </p>
                     </section>

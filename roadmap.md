@@ -4,225 +4,144 @@ title: ACES Roadmap
 permalink: /roadmap/
 ---
 
-<div class="spacial-features customFadeInUp" data-scroll="">
-    <section class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="header">
-                    <h2>Project Roadmap</h2>
-                    <p>
-                        The ACES platform is currently being developed.
-                    </p>
-                 </div>
-             </div>
-         </div>
-     </section>
- </div>
 
-                        
-<div class="spacial-features customFadeInUp" data-scroll="">
-    <section class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="header">
-                    <h2>Milestones In Progress</h2>
-                    <hr>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish Marketplace API Specification 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish BTC/ARK Transfer Service implementation 
-                    </a><p></p>
+
+<div class="index-features" data-scroll>
+    <div class="container">
+        <header>
+            <h3>Upcoming Projects</h3>
+        </header>
+        <section class="features">
+            <div class="row">
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Marketplace Directory
+                        </h4>
+                        <p>
+                            A platform for posting external ACES services to a central database of services. Consumers can search and filter services to find providers that offer what they are looking for. 
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                        </p>
+                    </section>
+                </div>
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Marketplace Education 
+                        </h4>
+                        <p>
+                            User and developer guides for understanding how to take advantage of the features provided by the ACES Marketplace
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                        </p>
+                    </section>
                 </div>
             </div>
-        </div>
-    </section>
-</div>
-
-                    
-                    
-                    
-                    
-
-
-<div class="spacial-features customFadeInUp" data-scroll="">
-    <section class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="header">
-                    <h2>Upcoming Milestones</h2>
-                    <hr>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Marketplace API documentation website
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish ARK to ETH Transfer Service implementation
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy ARK to ETH Transfer Service 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish ARK to ETH Contract Deploy Service implementation 
-                    </a><p></p>
-
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy ARK to ETH Contract Deploy Service
-                    </a><p></p>
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Marketplace instance with our demo services registered 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Formless Functions API Specification
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Formless Functions Developer Docs
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Marketplace Console App skeleton and database instances 
-                    </a><p></p>
-
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy user registration and sign in to Marketplace Console instance 
-                    </a><p></p>
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Marketplace Console UI for listing and searching Marketplace Services
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy ARK to ETH Formless Function implementation 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy ARK to BTC Formless Function implementation 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Marketplace Console UI for executing Marketplace Service contracts 
-                    </a><p></p>
-
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy ETH to ARK Transfer Service implementation
-                    </a><p></p>
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish tutorial page for using Marketplace Services
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Build UI skeleton for Marketplace Admin 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy UI for registering, listing, unregistering marketplace services 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy service basic stats tracking and viewing 
-                    </a><p></p>
-
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish tutorial for using Marketplace Admin panel 
-                    </a><p></p>
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Admin panel 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Build UI skeleton for Marketplace Launcher
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy UI for listing deployable services 
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy UI for deploying and halting services  
-                    </a><p></p>
-
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Publish tutorial for using Marketplace Launcher
-                    </a><p></p>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy Admin Portal
-                    </a><p></p>
+            <div class="row">
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Marketplace Admin
+                        </h4>
+                        <p>
+                            An admin portal for managing service listings.
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                        </p>
+                    </section>
+                </div>
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Marketplace Launcher 
+                        </h4>
+                        <p>
+                            Application for deploying custom services. 
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                        </p>
+                    </section>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+    </div>
+</div>
+<div class="index-features" data-scroll>
+    <div class="container">
+        <header>
+            <h3>Completed Projects</h3>
+        </header>
+        <section class="features">
+            <div class="row">
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Listener Framework and APIs
+                        </h4>
+                        <p>
+                            Developer tools for building custom blockchain listeners and accessing them through APIs
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Listener Framework</a>
+                        </p>
+                    </section>
+                </div>
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Service Framework and APIs
+                        </h4>
+                        <p>
+                            Developer tools for building custom blockchain services and accessing them through APIs
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Service Framework</a>
+                        </p>
+                    </section>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Bitcoin, Ethereum, and ARK Service Releases
+                        </h4>
+                        <p>
+                            Complete builds for ACES services customized for Bitcoin, Ethereum, and ARK.
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Services</a>
+                        </p>
+                    </section>
+                </div>
+                <div class="col-md-12 feature">
+                    <img src="../assets/images/ark-block-logo.png" class="icon" />
+                    <section>
+                        <h4>
+                            Marketplace API 
+                        </h4>
+                        <p>
+                            Access and interact with an ACES marketplace instance using API
+                        </p>
+                        <p>
+                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                        </p>
+                    </section>
+                </div>
+            </div>
+        </section>
+    </div>
 </div>
 
-
-                    
-                    
-
-                    
-
-<div class="spacial-features customFadeInUp" data-scroll="" >
-    <section class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="header">
-                    <h2>Completed Milestones</h2>
-                    <hr>
-                    
-                    <a class="btn-shadow btn-roadmap" href="https://medium.com/@arkaces">
-                      Deploy blog website
-                    </a><p></p>
-                  
-                    
-                     <a class="btn-shadow btn-roadmap" href="https://github.com/ark-aces/aces-service-api">
-                       Publish Service API Specification
-                     </a><p></p>
-                     
-                     <a class="btn-shadow btn-roadmap" href="https://github.com/ark-aces/aces-listener-api">
-                       Publish Encoded Listener API Specification 
-                     </a><p></p>
-                     
-                     <a class="btn-shadow btn-roadmap" href="https://ark-aces.github.io/aces-listener-docs/">
-                       Deploy Listener Framework developer documentation website
-                     </a><p></p>
-
-                     <a class="btn-shadow btn-roadmap" href="https://ark-aces.github.io/aces-service-docs/">
-                       Deploy Service Framework developer documentation website 
-                     </a><p></p>
-
-                     <a class="btn-shadow btn-roadmap" href="https://github.com/ark-aces/aces-listener-ark">
-                       Code for Ark Listener node implementation  
-                     </a><p></p>
-
-                     <a class="btn-shadow btn-roadmap" href="https://github.com/ark-aces/aces-listener-bitcoin">
-                       Code for Bitcoin Listener node implementation  
-                     </a><p></p>
-                     
-                     <a class="btn-shadow btn-roadmap" href="https://ark-listener-mainnet.arkaces.com">
-                       Deploy demo Ark Listener node instance 
-                     </a><p></p>
-                     
-                     <a class="btn-shadow btn-roadmap" href="https://btc-listener-mainnet.arkaces.com">
-                       Deploy demo Bitcoin Listener node instance 
-                     </a><p></p>
-                                          
-                     <a class="btn-shadow btn-roadmap" href="https://github.com/ark-aces/aces-listener-ethereum">
-                       Code for Ethereum Listener node implementation
-                     </a><p></p>
-                     
-                     <a class="btn-shadow btn-roadmap" href="https://eth-listener-mainnet.arkaces.com">
-                       Deploy demo Ethereum Listener node instance 
-                     </a><p></p>
-                 </div>
-             </div>
-         </div>
-     </section>
- </div>
-
-                    
-      

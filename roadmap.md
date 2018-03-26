@@ -23,7 +23,7 @@ permalink: /roadmap/
                             A platform for posting external ACES services to a central database of services. Consumers can search and filter services to find providers that offer what they are looking for. 
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                            <a href="https://github.com/ark-aces">ACES Marketplace</a>
                         </p>
                     </section>
                 </div>
@@ -37,7 +37,7 @@ permalink: /roadmap/
                             User and developer guides for understanding how to take advantage of the features provided by the ACES Marketplace
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                            <a href="https://github.com/ark-aces">ACES Marketplace</a>
                         </p>
                     </section>
                 </div>
@@ -53,7 +53,7 @@ permalink: /roadmap/
                             An admin portal for managing service listings.
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                            <a href="https://github.com/ark-aces">ACES Marketplace</a>
                         </p>
                     </section>
                 </div>
@@ -67,7 +67,7 @@ permalink: /roadmap/
                             Application for deploying custom services. 
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                            <a href="https://github.com/ark-aces">ACES Marketplace</a>
                         </p>
                     </section>
                 </div>
@@ -92,7 +92,7 @@ permalink: /roadmap/
                             Developer tools for building custom blockchain listeners and accessing them through APIs
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Listener Framework</a>
+                            <a href="https://github.com/ark-aces">ACES Listener Framework</a>
                         </p>
                     </section>
                 </div>
@@ -106,7 +106,7 @@ permalink: /roadmap/
                             Developer tools for building custom blockchain services and accessing them through APIs
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Service Framework</a>
+                            <a href="https://github.com/ark-aces">ACES Service Framework</a>
                         </p>
                     </section>
                 </div>
@@ -122,7 +122,7 @@ permalink: /roadmap/
                             Complete builds for ACES services customized for Bitcoin, Ethereum, and ARK.
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Services</a>
+                            <a href="https://github.com/ark-aces">ACES Services</a>
                         </p>
                     </section>
                 </div>
@@ -136,7 +136,7 @@ permalink: /roadmap/
                             Access and interact with an ACES marketplace instance using API
                         </p>
                         <p>
-                            <a href="https://github.com/arkaces">ACES Marketplace</a>
+                            <a href="https://github.com/ark-aces">ACES Marketplace</a>
                         </p>
                     </section>
                 </div>

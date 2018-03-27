@@ -185,6 +185,14 @@ body { padding-top: 85px; }
         position: relative;
         top: -24px;
     }
+
+    .index-features .features .icon-roadmap {
+        margin-right: 0;
+        width: 60px;
+        position: relative;
+        top: -24px;
+        left: 80px;
+    }
 }
 
 #faq-accordion a, #faq-accordion a:hover {

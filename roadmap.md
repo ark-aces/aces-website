@@ -14,7 +14,7 @@ permalink: /roadmap/
         <section class="features">
             <div class="row">
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Marketplace Directory
@@ -28,7 +28,7 @@ permalink: /roadmap/
                     </section>
                 </div>
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Marketplace Education 
@@ -44,7 +44,7 @@ permalink: /roadmap/
             </div>
             <div class="row">
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Marketplace Admin
@@ -58,7 +58,7 @@ permalink: /roadmap/
                     </section>
                 </div>
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Marketplace Launcher 
@@ -83,7 +83,7 @@ permalink: /roadmap/
         <section class="features">
             <div class="row">
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Listener Framework and APIs
@@ -97,7 +97,7 @@ permalink: /roadmap/
                     </section>
                 </div>
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Service Framework and APIs
@@ -113,7 +113,7 @@ permalink: /roadmap/
             </div>
             <div class="row">
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Bitcoin, Ethereum, and ARK Service Releases
@@ -127,7 +127,7 @@ permalink: /roadmap/
                     </section>
                 </div>
                 <div class="col-md-12 feature">
-                    <img src="../assets/images/ark-block-logo.png" class="icon-roadmap" />
+                    <img src="../assets/images/ark-block-logo.png" class="icon icon-roadmap" />
                     <section>
                         <h4>
                             Marketplace API 

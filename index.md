@@ -179,7 +179,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     <img src="assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Decentrallized
+                            Decentralized
                         </h4>
                         <p>
                             A marketplace platform that allows users to consume blockchain services offered by a 

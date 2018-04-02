@@ -63,7 +63,7 @@ permalink: /marketplace/
                     <img src="../assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Decentrallized
+                            Decentralized
                         </h4>
                         <p>
                             The ACES Marketplace is Open Source and allows different instances to be created

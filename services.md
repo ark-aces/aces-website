@@ -90,7 +90,7 @@ permalink: /services/
                     <img src="../assets/images/ark-block-logo.png" class="icon" />
                     <section>
                         <h4>
-                            Decentrallized
+                            Decentralized
                         </h4>
                         <p>
                             Service providers register with the marketplace and fully control execution

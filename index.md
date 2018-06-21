@@ -78,7 +78,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         ACES Services
                     </h3>
                     <p>
-                        ACES Services create and excute Service Contracts, which can be anything from uploading a 
+                        ACES Services create and execute Service Contracts, which can be anything from uploading a 
                         file to a storage blockchain, 
                         performing value transfers, creating smart contracts, executing code on blockchain based 
                         computing platforms, or interacting with IoT hardware.

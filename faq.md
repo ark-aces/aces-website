@@ -20,7 +20,7 @@ permalink: /faq/
     </section>
 </div>
 
-<div class="faqs customFadeInUp" style="padding-top: 50px" data-scroll="">
+<div class="faqs" style="padding-top: 50px" data-scroll="">
     <section class="container">
         <div class="row">
             <div class="col-md-12">
@@ -29,12 +29,12 @@ permalink: /faq/
                   <div class="card">
                     <div class="card-header" id="headingOne">
                       <h5 class="mb-0">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                        <a  data-parent="#accordion" href="#collapseOne">
                           Will it be possible to make anonymous Ark to Ark transactions?
                         </a>
                       </h5>
                     </div>
-                    <div id="collapseOne" class="collapse" role="tabpanel">
+                    <div id="collapseOne"  role="tabpanel">
                       <div class="card-body">
                         One of the flaws of certain private coins is that amounts of transfers are known. Studies have shown that knowing the amounts makes it possible to determine who sent what, regardless of if the new address is newly created. A privacy service would have to have more layers than simply ark -> privacy coin -> Ark or it would still be obvious where your coins came from.
                       </div>
@@ -44,12 +44,12 @@ permalink: /faq/
                   <div class="card">
                     <div class="card-header" id="headingTwo">
                       <h5 class="mb-0">
-                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                        <a  data-parent="#accordion" href="#collapseTwo">
                          Is ACES only building the backend infrastructure for these communications, but not actually making all the interconnections and nodes? 
                         </a>
                       </h5>
                     </div>
-                    <div id="collapseTwo" class="collapse">
+                    <div id="collapseTwo" >
                       <div class="card-body">
                         We will build both backend and frontend infrastructure. The goal for ACES has always been for these services to be hosted by the community, much like running a node. We don't want a single point of failure and we hope to create an ecosystem of micro services that are provided by a collective of thousands of people across the globe. 
                       </div>
@@ -59,12 +59,12 @@ permalink: /faq/
                   <div class="card">
                     <div class="card-header" id="headingThree">
                       <h5 class="mb-0">
-                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                        <a class="collapsed"  data-parent="#accordion" href="#collapseThree">
                           Any chance ACES services are integrated into the ARK official wallet?
                         </a>
                       </h5>
                     </div>
-                    <div id="collapseThree" class="collapse">
+                    <div id="collapseThree" >
                       <div class="card-body">
                         It is possible. The wallet is compatible with web technologies which is how we’re building the marketplace. We don’t have any current plans to integrate it into the wallet but I imagine if ACES is successful enough we will explore that option some time after the release of the marketplace.</div>
                     </div>
@@ -73,12 +73,12 @@ permalink: /faq/
                   <div class="card">
                     <div class="card-header" id="headingFour">
                       <h5 class="mb-0">
-                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                        <a class="collapsed"  data-parent="#accordion" href="#collapseFour">
                           Do you have to pay any fees when swapping between blockchains? Example: BTC->Ark?
                         </a>
                       </h5>
                     </div>
-                   <div id="collapseFour" class="collapse">
+                   <div id="collapseFour" >
                    <div class="card-body">
                      Yes. Because transactions are real, verifiable transactions on each blockchain, a transaction fee is paid on each chain.
                  </div>

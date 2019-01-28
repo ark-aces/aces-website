@@ -141,29 +141,30 @@ permalink: /services/
                 <div class="row" style="margin-bottom: 20px;">
                     <div class="col-md-2"></div>
                     <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-ethereum-ark-channel-service">
-                            Ethereum-Ark Channel
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-arka-arkb-channel-service">
+                            Ark-Ark Channel
                         </a>
                     </div>
                     <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-ark-ethereum-channel-service">
-                            Ark-Ethereum Channel
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-ark-ethereum-lite-dual-channel-service">
+                            Ethereum-Ark Dual Channel
                         </a>
                     </div>
                 </div>
                 <div class="row" style="margin-bottom: 20px;">
                     <div class="col-md-2"></div>
                     <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-ark-bitcoin-channel-service">
-                            Ark-Bitcoin Channel
-                        </a>
-                    </div>
-                    <div class="col-md-4">
-                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-bitcoin-ark-channel-service">
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-bitcoin-ark-lite-channel-service">
                             Bitcoin-Ark Channel
                         </a>
                     </div>
+                    <div class="col-md-4">
+                        <a class="btn-block btn-sm btn-shadow btn-shadow-info" href="https://github.com/ark-aces/aces-ark-bitcoin-lite-channel-service">
+                            Ark-Bitcoin Channel
+                        </a>
+                    </div>
                 </div>
+                
             </div>
         </div>
     </div>

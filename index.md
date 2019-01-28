@@ -5,7 +5,7 @@ layout: default
 <div class="business-hero">
     <div class="container">
         <h2 class="customFadeInUp">
-            A blockchain interoperability platform for a new world.
+            A blockchain interoperability platform for ARK.
         </h2>
         <p class="customFadeInUp">
             We are building a developer friendly blockchain interoperability platform 
@@ -78,9 +78,9 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                         ACES Services
                     </h3>
                     <p>
-                        ACES Services create and execute Service Contracts, which can be anything from uploading a 
-                        file to a storage blockchain, 
-                        performing value transfers, creating smart contracts, executing code on blockchain based 
+                        ACES Services create and execute Service Contracts that can be programmed
+                        to perform actions such as value transfers, uploading files to storage blockchains,
+                        creating smart contracts, executing code on blockchain-based
                         computing platforms, or interacting with IoT hardware.
                     </p>
                     <p>
@@ -109,39 +109,6 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             </div>
         </div>
     </section>
-
-</div>
-
-
-<div class="index-clients">
-    <div class="container">
-        <header>
-            <h4>Platform Statistics</h4>
-        </header>
-        <div class="about-2-stats">
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 text-center">
-                        <span>4</span>
-                        <p>Listeners</p>
-                    </div>
-                    <div class="col-md-3 text-center">
-                        <span>3</span>
-                        <p>Services</p>
-                    </div>
-                    <div class="col-md-3 text-center">
-                        <span>1</span>
-                        <p>Marketplaces</p>
-                    </div>
-                    <div class="col-md-3 text-center">
-                        <span>0 BTC</span>
-                        <p>Volume</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 
 <div class="index-features" data-scroll>

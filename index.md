@@ -5,7 +5,7 @@ layout: default
 <div class="business-hero">
     <div class="container">
         <h2 class="customFadeInUp">
-            A blockchain interoperability platform for ARK.
+            A blockchain interoperability platform for a new world.
         </h2>
         <p class="customFadeInUp">
             We are building a developer friendly blockchain interoperability platform 
